@@ -1,0 +1,7 @@
+folders:
+  PDF: ['.pdf']
+  Images: ['.png', '.jpg', '.jpeg', '.gif', '.bmp']
+  Documents: ['.docx', '.doc', '.txt']
+  Books: ['.epub']
+  Apps: ['.dmg', '.app', '.pkg']
+  Videos: ['.mp4', '.mov', '.avi']
