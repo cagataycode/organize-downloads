@@ -3,5 +3,7 @@ folders:
   Images: ['.png', '.jpg', '.jpeg', '.gif', '.bmp']
   Documents: ['.docx', '.doc', '.txt']
   Books: ['.epub']
+  Compressed: ['.zip', '.rar', '.7z', '.tar', '.gz']
+  Models: ['.stl', '.obj', '.fbx', '.glb', '.gltf']
   Apps: ['.dmg', '.app', '.pkg']
   Videos: ['.mp4', '.mov', '.avi']
